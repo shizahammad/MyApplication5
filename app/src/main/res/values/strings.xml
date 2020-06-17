@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="google_calendar">Google Calendar</string>
+    <string name="no_tasks_for_this_month">No tasks for this month</string>
+</resources>
